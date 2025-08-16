@@ -1,0 +1,21 @@
+{
+  "name": "Interior Solutions Kenya",
+  "short_name": "InteriorSol",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1F3A93",
+  "description": "Stylish and functional interior design solutions across Nairobi",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
